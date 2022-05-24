@@ -1,7 +1,7 @@
-import dividir  from "./dividir.js";
-import somar  from "./somar.js"
-import multiplicar  from "./multiplicar.js";
-import subtrair  from "./subtrair.js";
+import {dividir}  from "./dividir.js"
+import {somar}  from "./somar.js"
+import {multiplicar}  from "./multiplicar.js"
+import {subtrair}  from "./subtrair.js"
 
 console.log("Testando função somar \n");
 console.log(somar(6, 3));
